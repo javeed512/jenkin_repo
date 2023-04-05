@@ -12,7 +12,7 @@ public class SpringRestDemoApplication {
 		SpringApplication.run(SpringRestDemoApplication.class, args);
 	
 
-		System.out.println("Updating main file");
+		System.out.println("Hi friend update 3");
 
 		System.out.println("Hi Javeed , welcome back");
 
